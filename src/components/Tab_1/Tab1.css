@@ -1,0 +1,28 @@
+@media (max-width:768px) {
+  .user_info {
+    width: 50%;
+    margin: 9vh auto;
+  }
+}
+
+@media (min-width:768px)and (max-width:1024px){
+  .user_info {
+    width: 50%;
+    margin: 9vh 2vh;
+  }
+}
+
+@media (min-width:1024px){
+  .user_info {
+    width: 30%;
+    margin: 5vh 1vw;
+  }
+}
+
+.form-text {
+    color: whitesmoke;
+  }
+  
+  .form-check-label {
+    color: whitesmoke !important;
+  }

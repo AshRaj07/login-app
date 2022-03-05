@@ -1,0 +1,21 @@
+@media (max-width:768px) {
+    p{
+        text-align: end;
+        margin: auto 5vw;
+        font-size: xx-large;
+    }
+}
+
+@media (min-width:768px)and (max-width:1024px){
+    p{
+        text-align: center;
+        margin: 5vw;
+    }
+}
+
+@media (min-width:1024px){
+    p{
+        text-align: end;
+        margin: 0px 1vw;
+    }
+}
