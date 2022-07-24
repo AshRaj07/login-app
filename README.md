@@ -1,5 +1,6 @@
-### Authentication Credentials
+# Authentication Credentials
 
-# Email - admin@namasys.co
+### Email - admin@namasys.co
 <br />
-# Password - admin123
+
+### Password - admin123
